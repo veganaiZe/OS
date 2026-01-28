@@ -1,7 +1,5 @@
-# OS
-
-[POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
-
+OS Development
+==============
 
 Books
 -----
@@ -44,13 +42,6 @@ Books
   - [Errata](http://web.archive.org/web/20071201052103id_/http://www.world.std.com/~jmhart/top2ed.htm)
 
 
-Resources
----------
-
-* [OSDev](https://wiki.osdev.org/Expanded_Main_Page) - wiki
-* [OSRC](http://web.archive.org/web/20110816070757id_/http://www.nondot.org/sabre/os/articles) - operating system resource center
-
-
 OSes
 ----
 
@@ -61,3 +52,17 @@ OSes
             ([src](https://github.com/Stichting-MINIX-Research-Foundation/minix/archive/refs/tags/v3.1.8.tar.gz))
             - last version before netbsd crap added
     - [3.4.0rc6](https://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2) - last version
+
+
+Resources
+---------
+
+* [OSDev](https://wiki.osdev.org/Expanded_Main_Page) - wiki
+* [OSRC](http://web.archive.org/web/20110816070757id_/http://www.nondot.org/sabre/os/articles) - operating system resource center
+
+
+Specifications
+--------------
+
+* [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
+* [Simple File System (SFS)](http://web.archive.org/web/20140309062823id_/https://www.d-rift.nl/combuster/vdisk/sfs.html)
