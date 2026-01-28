@@ -1,8 +1,8 @@
 OS Development
 ==============
 
-Books
------
+📚 Books
+--------
 
 * ***Modern Operating Systems***
   - [Sample Chapter](https://api.pageplace.de/preview/DT0400.9781292727899_A46720136/preview-9781292727899_A46720136.pdf) - 5th Edition
@@ -42,8 +42,8 @@ Books
   - [Errata](http://web.archive.org/web/20071201052103id_/http://www.world.std.com/~jmhart/top2ed.htm)
 
 
-OSes
-----
+💿 OSes
+-------
 
 * [Linux From Scratch](https://www.linuxfromscratch.org/index.html)
 * [Minix 3](http://www.minix3.org/)
@@ -54,15 +54,15 @@ OSes
     - [3.4.0rc6](https://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2) - last version
 
 
-Resources
----------
+🔦 Resources
+------------
 
 * [OSDev](https://wiki.osdev.org/Expanded_Main_Page) - wiki
 * [OSRC](http://web.archive.org/web/20110816070757id_/http://www.nondot.org/sabre/os/articles) - operating system resource center
 
 
-Specifications
---------------
+📋 Specifications
+-----------------
 
 * [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
 * [Simple File System (SFS)](http://web.archive.org/web/20140309062823id_/https://www.d-rift.nl/combuster/vdisk/sfs.html)
