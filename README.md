@@ -45,13 +45,21 @@ OS Development
 💿 OSes
 -------
 
-* [Linux From Scratch](https://www.linuxfromscratch.org/index.html)
-* [Minix 3](http://www.minix3.org/)
+* [Linux From Scratch](https://www.linuxfromscratch.org/index.html) - monolithic kernel os
+* [Minix 3](http://www.minix3.org/) - wiki, microkernel os
     - [3.1.0](https://download.minix3.org/iso/minix-3.1.0-book.iso.bz2) - version in OS Design & Implementation book; includes source & pdf listings
     - 3.1.8 ([iso](https://download.minix3.org/iso/minix3_1_8_ide_r8165.iso.bz2))
             ([src](https://github.com/Stichting-MINIX-Research-Foundation/minix/archive/refs/tags/v3.1.8.tar.gz))
             - last version before netbsd crap added
     - [3.4.0rc6](https://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2) - last version
+* Windows - hybrid kernel os
+  - [ReactOS](https://reactos.org/) - open source windows clone
+  - [Inside the Windows Vista Kernel: Part 1](http://web.archive.org/web/20160719164014/https://technet.microsoft.com/en-us/magazine/2007.02.vistakernel.aspx)
+  - [Inside the Windows Vista Kernel: Part 2](http://web.archive.org/web/20160616205438/https://technet.microsoft.com/en-us/magazine/2007.03.vistakernel.aspx)
+  - [Inside the Windows Vista Kernel: Part 3](http://web.archive.org/web/20160602045821/https://technet.microsoft.com/en-us/magazine/2007.04.vistakernel.aspx)
+  - [Inside Windows Server 2008 Kernel Changes](http://web.archive.org/web/20120729115628/http://technet.microsoft.com/en-us/magazine/2008.03.kernel.aspx)
+  - [Windows Internals](http://web.archive.org/web/20150115091709id_/http://download.microsoft.com/download/1/4/0/14045A9E-C978-47D1-954B-92B9FD877995/97807356648739_SampleChapters.pdf) - 6th edition, sample chapters
+  - [NT](https://www.youtube.com/@NT-dd8rw/videos) - Youtube channel
 
 
 🔦 Resources
