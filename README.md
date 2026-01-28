@@ -30,7 +30,7 @@ Books
     ([source](http://cs.westminstercollege.edu/~greg/osc10e/final-src-osc10e.zip))
 * [Operating Systems](http://williamstallings.com/OperatingSystems/) - William Stallings
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
-  - [sample os] - as demonstrated in the book
+  - [sample os](https://github.com/tuhdo/sample-os) - as demonstrated in the book
 * Operating Systems: Three Easy Pieces
   - [Book Chapters](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)
   - [Homework](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
