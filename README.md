@@ -53,7 +53,7 @@ OS Development
             - last version before netbsd crap added
     - [3.4.0rc6](https://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2) - last version
 * Windows - hybrid kernel os
-  - [ReactOS](https://reactos.org/) - open source windows clone
+  - [ReactOS](https://reactos.org/) - open source windows clone ([wiki](https://reactos.org/wiki/Welcome_to_the_ReactOS_Development_Wiki))
   - [Inside the Windows Vista Kernel: Part 1](http://web.archive.org/web/20160719164014/https://technet.microsoft.com/en-us/magazine/2007.02.vistakernel.aspx)
   - [Inside the Windows Vista Kernel: Part 2](http://web.archive.org/web/20160616205438/https://technet.microsoft.com/en-us/magazine/2007.03.vistakernel.aspx)
   - [Inside the Windows Vista Kernel: Part 3](http://web.archive.org/web/20160602045821/https://technet.microsoft.com/en-us/magazine/2007.04.vistakernel.aspx)
