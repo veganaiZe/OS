@@ -14,12 +14,25 @@ Books
             - last version before netbsd crap added
     - [3.4.0rc6](https://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2) - last version
 * Operating System Concepts
+  - 7th Edition
+    ([source](http://cs.westminstercollege.edu/~greg/osc/osc7e-src.zip))
+    - Java
+      ([source](http://www.people.westminstercollege.edu/faculty/ggagne/OSJ/oscj7e-src.zip))
   - [8th Edition](https://os-book.com/OS8/os8c/)
+    ([source](http://cs.westminstercollege.edu/~greg/osc/osc8e-src.zip))
     - [Essentials](https://os-book.com/OS8/os8e/)
     - [Java](https://os-book.com/OS8/os8j/)
-  - [9th Edition](https://os-book.com/OS9/) ([slides](https://os-book.com/OS9/slide-dir/PDF-dir.zip)) ([figures](https://os-book.com/OS9/slide-dir/os-figures.zip))
-    - [Essentials](https://os-book.com/OSE2/) ([slides](https://os-book.com/OSE2/slide-dir/PDF-dir.zip)) ([figures](https://os-book.com/OSE2/slide-dir/os-figures.zip))
+      ([source](http://www.people.westminstercollege.edu/faculty/ggagne/OSJ/oscj8e-final-src.zip))
+  - [9th Edition](https://os-book.com/OS9/)
+    ([slides](https://os-book.com/OS9/slide-dir/PDF-dir.zip))
+    ([figures](https://os-book.com/OS9/slide-dir/os-figures.zip))
+    ([source](http://cs.westminstercollege.edu/~greg/osc/final-src-osc9e.zip))
+    - [Essentials](https://os-book.com/OSE2/)
+      ([slides](https://os-book.com/OSE2/slide-dir/PDF-dir.zip))
+      ([figures](https://os-book.com/OSE2/slide-dir/os-figures.zip))
+      ([source](http://cs.westminstercollege.edu/~greg/osc/final-src-os9e.zip))
   - [10th Edition](https://os-book.com/OS10/)
+    ([source](http://cs.westminstercollege.edu/~greg/osc10e/final-src-osc10e.zip))
 * Operating Systems: Three Easy Pieces
   - [Book Chapters](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)
   - [Homework](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
