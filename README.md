@@ -74,3 +74,4 @@ OS Development
 
 * [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
 * [Simple File System (SFS)](http://web.archive.org/web/20140309062823id_/https://www.d-rift.nl/combuster/vdisk/sfs.html)
+* [Multiboot2](http://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html)
