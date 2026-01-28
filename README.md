@@ -7,7 +7,7 @@ Books
 
 * Modern Operating Systems
   - [Sample Chapter](https://api.pageplace.de/preview/DT0400.9781292727899_A46720136/preview-9781292727899_A46720136.pdf) - 5th Edition
-  - [Minix 3](http://www.minix3.org/) ([3.4.0rc6](http://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2))
+  - [Minix 3](http://www.minix3.org/) ([3.1.0 w/src](https://download.minix3.org/iso/minix-3.1.0-book.iso.bz2)) ([3.4.0rc6](https://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2))
 * Operating System Concepts
   - [8th Edition](https://os-book.com/OS8/os8c/)
     - [Essentials](https://os-book.com/OS8/os8e/)
