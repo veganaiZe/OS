@@ -1,6 +1,8 @@
 # OS
 
-[POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
+* [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
+* [osdev.org](https://wiki.osdev.org/Expanded_Main_Page)
+
 
 Books
 -----
@@ -33,6 +35,8 @@ Books
       ([source](http://cs.westminstercollege.edu/~greg/osc/final-src-os9e.zip))
   - [10th Edition](https://os-book.com/OS10/)
     ([source](http://cs.westminstercollege.edu/~greg/osc10e/final-src-osc10e.zip))
+* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
+  - [sample os] - as demonstrated in the book
 * Operating Systems: Three Easy Pieces
   - [Book Chapters](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)
   - [Homework](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
