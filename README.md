@@ -5,6 +5,16 @@
 Books
 -----
 
+* Modern Operating Systems
+  - [Sample Chapter](https://api.pageplace.de/preview/DT0400.9781292727899_A46720136/preview-9781292727899_A46720136.pdf) - 5th Edition
+  - [Minix 3](http://www.minix3.org/) ([3.4.0rc6](http://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2))
+* Operating System Concepts
+  - [8th Edition](https://os-book.com/OS8/os8c/)
+    - [Essentials](https://os-book.com/OS8/os8e/)
+    - [Java](https://os-book.com/OS8/os8j/)
+  - [9th Edition](https://os-book.com/OS9/) ([slides](https://os-book.com/OS9/slide-dir/PDF-dir.zip)) ([figures](https://os-book.com/OS9/slide-dir/os-figures.zip))
+    - [Essentials](https://os-book.com/OSE2/) ([slides](https://os-book.com/OSE2/slide-dir/PDF-dir.zip)) ([figures](https://os-book.com/OSE2/slide-dir/os-figures.zip))
+  - [10th Edition](https://os-book.com/OS10/)
 * Operating Systems: Three Easy Pieces
   - [Book Chapters](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)
   - [Homework](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
