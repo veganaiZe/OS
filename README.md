@@ -6,9 +6,9 @@
 Books
 -----
 
-* Modern Operating Systems
+* ***Modern Operating Systems***
   - [Sample Chapter](https://api.pageplace.de/preview/DT0400.9781292727899_A46720136/preview-9781292727899_A46720136.pdf) - 5th Edition
-* Operating System Concepts
+* ***Operating System Concepts***
   - 7th Edition
     ([source](http://cs.westminstercollege.edu/~greg/osc/osc7e-src.zip))
     - Java
@@ -28,15 +28,15 @@ Books
       ([source](http://cs.westminstercollege.edu/~greg/osc/final-src-os9e.zip))
   - [10th Edition](https://os-book.com/OS10/)
     ([source](http://cs.westminstercollege.edu/~greg/osc10e/final-src-osc10e.zip))
-* [Operating Systems](http://williamstallings.com/OperatingSystems/) - William Stallings
-* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
+* [***Operating Systems***](http://williamstallings.com/OperatingSystems/) - William Stallings
+* [***Operating Systems: From 0 to 1***](https://tuhdo.github.io/os01/)
   - [sample os](https://github.com/tuhdo/sample-os) - as demonstrated in the book
-* Operating Systems: Three Easy Pieces
+* ***Operating Systems: Three Easy Pieces***
   - [Book Chapters](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)
   - [Homework](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
   - [Projects](https://github.com/remzi-arpacidusseau/ostep-projects) - for an undergraduate OS course
   - [Slides](http://web.archive.org/web/20200114100728id_/https://www.pages.cs.wisc.edu/~remzi/OSTEP/Educators-Slides/Tyler/)
-* Windows System Programming
+* ***Windows System Programming***
   - Samples ([2004](http://web.archive.org/web/20260128005821id_/https://ptgmedia.pearsoncmg.com/images/0321256190/sourcecode/Win32Smp.zip)) ([2005](http://web.archive.org/web/20071201053532id_/http://www.world.std.com/~jmhart/Win32Smp.zip))
   - [Slides](http://web.archive.org/web/20260128005909id_/https://ptgmedia.pearsoncmg.com/images/0321256190/supplements/supplements.zip)
   - [Sample Chapter](https://ptgmedia.pearsoncmg.com/images/0321256190/samplechapter/hart_ch06.pdf) - Process Management
