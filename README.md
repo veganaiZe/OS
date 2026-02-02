@@ -65,6 +65,7 @@ OS Development
 🔦 Resources
 ------------
 
+* [Kernel Projects for Linux](https://web.archive.org/web/20200429163308id_/https://phoenix.goucher.edu/~kelliher/s2020/cs411/kernelProjectsForLinux.pdf) - pdf web edition
 * [OSDev](https://wiki.osdev.org/Expanded_Main_Page) - wiki
 * [OSRC](http://web.archive.org/web/20110816070757id_/http://www.nondot.org/sabre/os/articles) - operating system resource center
 
