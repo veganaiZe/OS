@@ -4,6 +4,7 @@ OS Development
 📚 Books
 --------
 
+* [***Kernel Projects for Linux***](https://web.archive.org/web/20200429163308id_/https://phoenix.goucher.edu/~kelliher/s2020/cs411/kernelProjectsForLinux.pdf) - Part 1: Overview
 * ***Modern Operating Systems***
   - [Sample Chapter](https://api.pageplace.de/preview/DT0400.9781292727899_A46720136/preview-9781292727899_A46720136.pdf) - 5th Edition
 * ***Operating System Concepts***
@@ -27,6 +28,7 @@ OS Development
   - [10th Edition](https://os-book.com/OS10/)
     ([source](http://cs.westminstercollege.edu/~greg/osc10e/final-src-osc10e.zip))
 * [***Operating Systems***](http://williamstallings.com/OperatingSystems/) - William Stallings
+* [***Operating Systems for Single-Threaded Computers***](http://web.archive.org/web/20090226125510id_/http://www.cs.colorado.edu/~nutt/WebBooklets/ST-Systems) - Gary Nutt
 * [***Operating Systems: From 0 to 1***](https://tuhdo.github.io/os01/)
   - [sample os](https://github.com/tuhdo/sample-os) - as demonstrated in the book
 * ***Operating Systems: Three Easy Pieces***
@@ -65,7 +67,6 @@ OS Development
 🔦 Resources
 ------------
 
-* [Kernel Projects for Linux](https://web.archive.org/web/20200429163308id_/https://phoenix.goucher.edu/~kelliher/s2020/cs411/kernelProjectsForLinux.pdf) - pdf web edition
 * [OSDev](https://wiki.osdev.org/Expanded_Main_Page) - wiki
 * [OSRC](http://web.archive.org/web/20110816070757id_/http://www.nondot.org/sabre/os/articles) - operating system resource center
 
