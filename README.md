@@ -47,6 +47,9 @@ OS Development
 💿 OSes
 -------
 
+* DOS
+  - [Useful DOS and BIOS Interrupts](https://faculty.uml.edu/yluo/Teaching/MicroprocessorII/resources/interrupts.pdf) (pdf)
+  - [DR-DOS System and Programmers Guide](https://web.archive.org/web/20171007025631id_/http://www.drdos.net/documentation/sysprog/httoc.htm) - 1997, caldera
 * [Linux From Scratch](https://www.linuxfromscratch.org/index.html) - monolithic kernel os
 * [Minix 3](http://www.minix3.org/) - wiki, microkernel os
     - [3.1.0](https://download.minix3.org/iso/minix-3.1.0-book.iso.bz2) - version in OS Design & Implementation book; includes source & pdf listings
@@ -61,7 +64,7 @@ OS Development
   - [Inside the Windows Vista Kernel: Part 3](http://web.archive.org/web/20160602045821/https://technet.microsoft.com/en-us/magazine/2007.04.vistakernel.aspx)
   - [Inside Windows Server 2008 Kernel Changes](http://web.archive.org/web/20120729115628/http://technet.microsoft.com/en-us/magazine/2008.03.kernel.aspx)
   - [Windows Internals](http://web.archive.org/web/20150115091709id_/http://download.microsoft.com/download/1/4/0/14045A9E-C978-47D1-954B-92B9FD877995/97807356648739_SampleChapters.pdf) - 6th edition, sample chapters
-  - [NT](https://www.youtube.com/@NT-dd8rw/videos) - Youtube channel
+  - [NT](https://www.youtube.com/@NT-dd8rw/videos) - youtube channel
 
 
 🔦 Resources
@@ -88,6 +91,5 @@ OS Development
   - [Multiboot](https://www.gnu.org/software/grub/manual/multiboot/multiboot.html) ([pdf](https://www.gnu.org/software/grub/manual/multiboot/multiboot.pdf))
   - [Multiboot2](http://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html) ([pdf](https://www.gnu.org/software/grub/manual/multiboot2/multiboot.pdf)) (UEFI)
 * BIOS
-  - [Useful DOS and BIOS Interrupts](https://faculty.uml.edu/yluo/Teaching/MicroprocessorII/resources/interrupts.pdf) (pdf)
   - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
   - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
