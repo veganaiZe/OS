@@ -87,3 +87,7 @@ OS Development
 * [Multiboot](https://en.wikipedia.org/wiki/Multiboot_specification)
   - [Multiboot](https://www.gnu.org/software/grub/manual/multiboot/multiboot.html) ([pdf](https://www.gnu.org/software/grub/manual/multiboot/multiboot.pdf))
   - [Multiboot2](http://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html) ([pdf](https://www.gnu.org/software/grub/manual/multiboot2/multiboot.pdf)) (UEFI)
+* BIOS
+  - [Useful DOS and BIOS Interrupts](https://faculty.uml.edu/yluo/Teaching/MicroprocessorII/resources/interrupts.pdf) (pdf)
+  - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
+  - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
