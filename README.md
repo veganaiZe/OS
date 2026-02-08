@@ -77,6 +77,7 @@ OS Development
 * [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
 * File Systems
   - FAT
+    - [How FAT Works](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776720(v=ws.10)) - microsoft learn
     - [FAT: General Overview of On-Disk Format](https://www.cs.fsu.edu/~cop4610t/assignments/project3/spec/fatspec.pdf) - 1.03, 2000-12-06 (pdf)
     - [Microsoft FAT Specification](https://academy.cba.mit.edu/classes/networking_communications/SD/FAT.pdf) - 2005-08-30 (pdf)
     - [exFAT file system specification](https://learn.microsoft.com/en-us/windows/win32/fileio/exfat-specification) - microsoft learn
