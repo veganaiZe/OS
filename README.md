@@ -75,7 +75,14 @@ OS Development
 -----------------
 
 * [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
-* [Simple File System (SFS)](http://web.archive.org/web/20140309062823id_/https://www.d-rift.nl/combuster/vdisk/sfs.html)
+* File Systems
+  - FAT
+    - [FAT: General Overview of On-Disk Format](https://www.cs.fsu.edu/~cop4610t/assignments/project3/spec/fatspec.pdf) - 1.03, 2000-12-06 (pdf)
+    - [Microsoft FAT Specification](https://academy.cba.mit.edu/classes/networking_communications/SD/FAT.pdf) - 2005-08-30 (pdf)
+    - [exFAT file system specification](https://learn.microsoft.com/en-us/windows/win32/fileio/exfat-specification) - microsoft learn
+  - NTFS
+    - [How NTFS Works](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc781134(v=ws.10)) - microsoft learn
+  - [Simple File System (SFS)](http://web.archive.org/web/20140309062823id_/https://www.d-rift.nl/combuster/vdisk/sfs.html)
 * [Multiboot](https://en.wikipedia.org/wiki/Multiboot_specification)
   - [Multiboot](https://www.gnu.org/software/grub/manual/multiboot/multiboot.html) ([pdf](https://www.gnu.org/software/grub/manual/multiboot/multiboot.pdf))
   - [Multiboot2](http://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html) ([pdf](https://www.gnu.org/software/grub/manual/multiboot2/multiboot.pdf)) (UEFI)
