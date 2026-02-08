@@ -50,6 +50,7 @@ OS Development
 * DOS
   - [Useful DOS and BIOS Interrupts](https://faculty.uml.edu/yluo/Teaching/MicroprocessorII/resources/interrupts.pdf) (pdf)
   - [DR-DOS System and Programmers Guide](https://web.archive.org/web/20171007025631id_/http://www.drdos.net/documentation/sysprog/httoc.htm) - 1997, caldera
+  - [VGA-Copy](https://web.archive.org/web/20160625070714id_/http://moenk.de/plugin/dlfile_1) - read/format any floppy disk (image) size
 * [Linux From Scratch](https://www.linuxfromscratch.org/index.html) - monolithic kernel os
 * [Minix 3](http://www.minix3.org/) - wiki, microkernel os
     - [3.1.0](https://download.minix3.org/iso/minix-3.1.0-book.iso.bz2) - version in OS Design & Implementation book; includes source & pdf listings
