@@ -50,6 +50,8 @@ OS Development
 * DOS
   - [Useful DOS and BIOS Interrupts](https://faculty.uml.edu/yluo/Teaching/MicroprocessorII/resources/interrupts.pdf) (pdf)
   - [DR-DOS System and Programmers Guide](https://web.archive.org/web/20171007025631id_/http://www.drdos.net/documentation/sysprog/httoc.htm) - 1997, caldera
+  - [List of DOS system files](https://en.wikipedia.org/wiki/List_of_DOS_system_files) - wikipedia
+  - [List of DOS commands](https://en.wikipedia.org/wiki/List_of_DOS_commands) - wikipedia
   - [IBM CGA manual](http://minuszerodegrees.net/oa/OA%20-%20IBM%20Color%20Graphics%20Monitor%20Adapter%20(CGA).pdf) (pdf)
   - [VGA-Copy](https://web.archive.org/web/20160625070714id_/http://moenk.de/plugin/dlfile_1) - read/format any floppy disk (image) size
 * [Linux From Scratch](https://www.linuxfromscratch.org/index.html) - monolithic kernel os
