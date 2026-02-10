@@ -102,3 +102,14 @@ OS Development
 * BIOS
   - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
   - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
+* CPU Architectures
+  - [ARM](https://en.wikipedia.org/wiki/ARM_architecture_family)
+    - [armref](https://web.archive.org/web/20220607075242id_/https://re-eject.gbadev.org/files/armref.pdf) (pdf)
+    - [ARMv4-ARMv6 Reference Manual](https://documentation-service.arm.com/static/5f8dacc8f86e16515cdb865a) (pdf)
+    - [Armv7-M](https://developer.arm.com/documentation/ddi0403/ee?lang=en)
+  - [m68k](https://en.wikipedia.org/wiki/Motorola_68000_series)
+    - [M68000 Programmer’s Reference Manual](http://web.archive.org/web/20160224175155id_/https://www.nxp.com/files/archives/doc/ref_manual/M68000PRM.pdf) (pdf)
+    - [ColdFire ISA](http://web.archive.org/web/20160705142541id_/https://www.nxp.com/files/dsp/doc/ref_manual/CFPRM.pdf) - reduced version of the M68000 instruction set (pdf)
+  - [x86](https://en.wikipedia.org/wiki/X86)
+    - [Intel 80386 Reference Programmer's Manual](https://pdos.csail.mit.edu/6.828/2018/readings/i386/toc.htm) (online)
+      ([pdf](https://css.csail.mit.edu/6.858/2014/readings/i386.pdf))
