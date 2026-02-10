@@ -102,6 +102,8 @@ OS Development
 * BIOS
   - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
   - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
+    - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - Video services
+  - [VESA BIOS Extensions](https://en.wikipedia.org/wiki/VESA_BIOS_Extensions)
 * CPU Architectures
   - [ARM](https://en.wikipedia.org/wiki/ARM_architecture_family)
     - [armref](https://web.archive.org/web/20220607075242id_/https://re-eject.gbadev.org/files/armref.pdf) (pdf)
