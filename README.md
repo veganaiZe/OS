@@ -59,6 +59,11 @@ OS Development
   - [List of DOS system files](https://en.wikipedia.org/wiki/List_of_DOS_system_files) - wikipedia
   - [List of DOS commands](https://en.wikipedia.org/wiki/List_of_DOS_commands) - wikipedia
   - [IBM CGA manual](http://minuszerodegrees.net/oa/OA%20-%20IBM%20Color%20Graphics%20Monitor%20Adapter%20(CGA).pdf) (pdf)
+  - Source Code
+    - [EDR-DOS](https://github.com/SvarDOS/edrdos) - Enhanced DR-DOS kernel and command interpreter
+    - [FreeDOS](https://github.com/FDOS/kernel) - kernel
+    - [MS-DOS](https://github.com/microsoft/ms-dos) - v1.25 & v2.0 (1983), v4.0
+    - [GW-BASIC](https://github.com/microsoft/GW-BASIC) - 1983
   - [VGA-Copy](https://web.archive.org/web/20160625070714id_/http://moenk.de/plugin/dlfile_1) - read/format any floppy disk (image) size
 * [Linux From Scratch](https://www.linuxfromscratch.org/index.html) - monolithic kernel os
 * [Minix 3](http://www.minix3.org/) - wiki, microkernel os
