@@ -36,6 +36,7 @@ OS Development
   - [Homework](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
   - [Projects](https://github.com/remzi-arpacidusseau/ostep-projects) - for an undergraduate OS course
   - [Slides](http://web.archive.org/web/20200114100728id_/https://www.pages.cs.wisc.edu/~remzi/OSTEP/Educators-Slides/Tyler/)
+* [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) ([pdf](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)) - principles of synchronization for concurrent programming
 * ***Windows System Programming***
   - Samples ([2004](http://web.archive.org/web/20260128005821id_/https://ptgmedia.pearsoncmg.com/images/0321256190/sourcecode/Win32Smp.zip)) ([2005](http://web.archive.org/web/20071201053532id_/http://www.world.std.com/~jmhart/Win32Smp.zip))
   - [Slides](http://web.archive.org/web/20260128005909id_/https://ptgmedia.pearsoncmg.com/images/0321256190/supplements/supplements.zip)
