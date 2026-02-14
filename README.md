@@ -60,6 +60,7 @@ OS Development
   - [List of DOS commands](https://en.wikipedia.org/wiki/List_of_DOS_commands) - wikipedia
   - [IBM CGA manual](http://minuszerodegrees.net/oa/OA%20-%20IBM%20Color%20Graphics%20Monitor%20Adapter%20(CGA).pdf) (pdf)
   - Source Code
+    - [Caldera OpenDOS](https://web.archive.org/web/20060109092302if_/http://www.drdosprojects.de:80/cgi-bin/download.cgi/dossrc.zip) - M.R.S. 7.01 (aka. DR-DOS / Novell DOS)
     - [EDR-DOS](https://github.com/SvarDOS/edrdos) - Enhanced DR-DOS kernel and command interpreter
     - [FreeDOS](https://github.com/FDOS/kernel) - kernel
     - [MS-DOS](https://github.com/microsoft/ms-dos) - v1.25 & v2.0 (1983), v4.0
