@@ -48,12 +48,12 @@ OS Development
 💿 OSes
 -------
 
-* Bootsector (Extremely Minimal OS Examples)
+* Bootsector (extremely minimal os examples)
   - [Bootsector and Assembly](https://archive.ph/MxbeL) - Pierre Ancelot
   - [Using BIOS Interrupts](https://kindatechnical.com/assembly/lesson-21-using-bios-interrupts.html)
   - [Writing Boot Sector Code](https://susam.net/writing-boot-sector-code.html)
   - [Unios](http://web.archive.org/web/20190627225159id_/http://gok.customer.netspace.net.au/resources/)
-* DOS
+* DOS (real mode os)
   - [Useful DOS and BIOS Interrupts](https://faculty.uml.edu/yluo/Teaching/MicroprocessorII/resources/interrupts.pdf) (pdf)
   - [DR-DOS System and Programmers Guide](https://web.archive.org/web/20171007025631id_/http://www.drdos.net/documentation/sysprog/httoc.htm) - 1997, caldera
   - [List of DOS system files](https://en.wikipedia.org/wiki/List_of_DOS_system_files) - wikipedia
@@ -66,14 +66,20 @@ OS Development
     - [MS-DOS](https://github.com/microsoft/ms-dos) - v1.25 & v2.0 (1983), v4.0
     - [GW-BASIC](https://github.com/microsoft/GW-BASIC) - 1983
   - [VGA-Copy](https://web.archive.org/web/20160625070714id_/http://moenk.de/plugin/dlfile_1) - read/format any floppy disk (image) size
-* [Linux From Scratch](https://www.linuxfromscratch.org/index.html) - monolithic kernel os
-* [Minix 3](http://www.minix3.org/) - wiki, microkernel os
+* Linux (monolithic kernel os)
+  - [Linux From Scratch](https://www.linuxfromscratch.org/index.html)
+  - [Linux Kernel 2.4 Internals](https://tldp.org/LDP/lki/index.html)
+    ([pdf](https://dl.booksee.org/genesis/251000/49bcf2e3713e31982b45410acab73634/_as/%255BAivazian_T.%255D_Linux_kernel_2.4_internals%28BookSee.org%29.pdf))
+  - Linux Kernel Module Programming Guide
+    - [v2.4](https://tldp.org/LDP/lkmpg/2.4/html/index.html) ([pdf](https://tldp.org/LDP/lkmpg/2.4/lkmpg.pdf))
+    - [v2.6](https://tldp.org/LDP/lkmpg/2.6/html/index.html) ([pdf](https://tldp.org/LDP/lkmpg/2.6/lkmpg.pdf))
+* [Minix 3](http://www.minix3.org/) (microkernel os) - wiki
     - [3.1.0](https://download.minix3.org/iso/minix-3.1.0-book.iso.bz2) - version in OS Design & Implementation book; includes source & pdf listings
     - 3.1.8 ([iso](https://download.minix3.org/iso/minix3_1_8_ide_r8165.iso.bz2))
             ([src](https://github.com/Stichting-MINIX-Research-Foundation/minix/archive/refs/tags/v3.1.8.tar.gz))
             - last version before netbsd crap added
     - [3.4.0rc6](https://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2) - last version
-* Windows - hybrid kernel os
+* Windows (hybrid kernel os)
   - [ReactOS](https://reactos.org/) - open source windows clone ([wiki](https://reactos.org/wiki/Welcome_to_the_ReactOS_Development_Wiki))
   - [Inside the Windows Vista Kernel: Part 1](http://web.archive.org/web/20160719164014/https://technet.microsoft.com/en-us/magazine/2007.02.vistakernel.aspx)
   - [Inside the Windows Vista Kernel: Part 2](http://web.archive.org/web/20160616205438/https://technet.microsoft.com/en-us/magazine/2007.03.vistakernel.aspx)
