@@ -86,7 +86,7 @@ OS Development
 🔦 Resources
 ------------
 
-* [OSDev](https://wiki.osdev.org/Expanded_Main_Page) - wiki
+* [OSDev](https://wiki.osdev.org/Expanded_Main_Page) - wiki ([offline archive](https://files.osdev.org/osdev_wiki.zip))
 * [OSRC](http://web.archive.org/web/20110816070757id_/http://www.nondot.org/sabre/os/articles) - operating system resource center
 
 
