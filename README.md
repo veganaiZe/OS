@@ -45,6 +45,46 @@ OS Development
   - [Errata](http://web.archive.org/web/20071201052103id_/http://www.world.std.com/~jmhart/top2ed.htm)
 
 
+CPU Architectures
+-----------------
+
+* CISC
+  - [***m68k***](https://en.wikipedia.org/wiki/Motorola_68000_series)
+    - [M68000 Programmer’s Reference Manual](http://web.archive.org/web/20160224175155id_/https://www.nxp.com/files/archives/doc/ref_manual/M68000PRM.pdf) (pdf)
+    - [ColdFire ISA](http://web.archive.org/web/20160705142541id_/https://www.nxp.com/files/dsp/doc/ref_manual/CFPRM.pdf) - reduced version of the M68000 instruction set (pdf)
+  - [***x86***](https://en.wikipedia.org/wiki/X86)
+    - [Intel 80386 Reference Programmer's Manual](https://pdos.csail.mit.edu/6.828/2018/readings/i386/toc.htm) (online)
+      ([pdf](https://css.csail.mit.edu/6.858/2014/readings/i386.pdf))
+    - [The Art of Picking Intel Registers](https://www.swansontec.com/sregisters.html) - swansontec
+* RISC
+  - [***ARM***](https://en.wikipedia.org/wiki/ARM_architecture_family)
+    - [armref](https://web.archive.org/web/20220607075242id_/https://re-eject.gbadev.org/files/armref.pdf) (pdf)
+    - [ARMv4-ARMv6 Reference Manual](https://documentation-service.arm.com/static/5f8dacc8f86e16515cdb865a) (pdf)
+    - [Armv7-M](https://developer.arm.com/documentation/ddi0403/ee?lang=en)
+  - [***MIPS***](https://en.wikipedia.org/wiki/MIPS_architecture)
+  - [***RISC-V***](https://en.wikipedia.org/wiki/RISC-V)
+    - [Unprivileged Instruction Set](https://docs.riscv.org/reference/isa/v20240411/unpriv/unpriv-index.html) (online - 2024-04-11)
+      ([pdf](web.archive.org/web/20251221235346id_/https://docs.riscv.org/reference/isa/_attachments/riscv-unprivileged.pdf) - 2025-05-08)
+    - [Privileged Instruction Set](https://docs.riscv.org/reference/isa/v20240411/priv/priv-index.html) (online - 2024-04-11)
+      ([pdf](web.archive.org/web/20251225072705id_/https://docs.riscv.org/reference/isa/_attachments/riscv-privileged.pdf) - 2025-05-08)
+    - [Debug Spec](http://web.archive.org/web/20251119152653id_/https://docs.riscv.org/reference/debug-trace-ras/debug/_attachments/riscv-debug-specification.pdf) (pdf)
+    - [Interrupts](web.archive.org/web/20251115101014id_/https://docs.riscv.org/reference/hardware/aia/_attachments/riscv-interrupts.pdf) (pdf)
+    - [Optimization Guide](http://web.archive.org/web/20251208232822id_/https://riscv-optimization-guide.riseproject.dev/)
+
+
+File Systems
+------------
+
+* FAT
+  - [How FAT Works](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776720(v=ws.10)) - microsoft learn
+  - [FAT: General Overview of On-Disk Format](https://www.cs.fsu.edu/~cop4610t/assignments/project3/spec/fatspec.pdf) - 1.03, 2000-12-06 (pdf)
+  - [Microsoft FAT Specification](https://academy.cba.mit.edu/classes/networking_communications/SD/FAT.pdf) - 2005-08-30 (pdf)
+  - [exFAT file system specification](https://learn.microsoft.com/en-us/windows/win32/fileio/exfat-specification) - microsoft learn
+* NTFS
+  - [How NTFS Works](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc781134(v=ws.10)) - microsoft learn
+* [Simple File System (SFS)](http://web.archive.org/web/20140309062823id_/https://www.d-rift.nl/combuster/vdisk/sfs.html)
+
+
 💿 OSes
 -------
 
@@ -95,48 +135,20 @@ OS Development
 
 * [OSDev](https://wiki.osdev.org/Expanded_Main_Page) - wiki ([offline archive](https://files.osdev.org/osdev_wiki.zip))
 * [OSRC](http://web.archive.org/web/20110816070757id_/http://www.nondot.org/sabre/os/articles) - operating system resource center
+* BIOS
+  - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
+  - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
+    - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - video services
+  - [VESA BIOS Extensions](https://en.wikipedia.org/wiki/VESA_BIOS_Extensions)
 
 
 📋 Specifications
 -----------------
 
-* [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/) ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
-* File Systems
-  - FAT
-    - [How FAT Works](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776720(v=ws.10)) - microsoft learn
-    - [FAT: General Overview of On-Disk Format](https://www.cs.fsu.edu/~cop4610t/assignments/project3/spec/fatspec.pdf) - 1.03, 2000-12-06 (pdf)
-    - [Microsoft FAT Specification](https://academy.cba.mit.edu/classes/networking_communications/SD/FAT.pdf) - 2005-08-30 (pdf)
-    - [exFAT file system specification](https://learn.microsoft.com/en-us/windows/win32/fileio/exfat-specification) - microsoft learn
-  - NTFS
-    - [How NTFS Works](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc781134(v=ws.10)) - microsoft learn
-  - [Simple File System (SFS)](http://web.archive.org/web/20140309062823id_/https://www.d-rift.nl/combuster/vdisk/sfs.html)
+* [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/)
+  ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
 * [Multiboot](https://en.wikipedia.org/wiki/Multiboot_specification)
-  - [Multiboot](https://www.gnu.org/software/grub/manual/multiboot/multiboot.html) ([pdf](https://www.gnu.org/software/grub/manual/multiboot/multiboot.pdf))
-  - [Multiboot2](http://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html) ([pdf](https://www.gnu.org/software/grub/manual/multiboot2/multiboot.pdf)) (UEFI)
-* BIOS
-  - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
-  - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
-    - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - Video services
-  - [VESA BIOS Extensions](https://en.wikipedia.org/wiki/VESA_BIOS_Extensions)
-* CPU Architectures
-  * CISC
-    - [m68k](https://en.wikipedia.org/wiki/Motorola_68000_series)
-      - [M68000 Programmer’s Reference Manual](http://web.archive.org/web/20160224175155id_/https://www.nxp.com/files/archives/doc/ref_manual/M68000PRM.pdf) (pdf)
-      - [ColdFire ISA](http://web.archive.org/web/20160705142541id_/https://www.nxp.com/files/dsp/doc/ref_manual/CFPRM.pdf) - reduced version of the M68000 instruction set (pdf)
-    - [x86](https://en.wikipedia.org/wiki/X86)
-      - [Intel 80386 Reference Programmer's Manual](https://pdos.csail.mit.edu/6.828/2018/readings/i386/toc.htm) (online)
-      ([pdf](https://css.csail.mit.edu/6.858/2014/readings/i386.pdf))
-  * RISC
-    - [ARM](https://en.wikipedia.org/wiki/ARM_architecture_family)
-      - [armref](https://web.archive.org/web/20220607075242id_/https://re-eject.gbadev.org/files/armref.pdf) (pdf)
-      - [ARMv4-ARMv6 Reference Manual](https://documentation-service.arm.com/static/5f8dacc8f86e16515cdb865a) (pdf)
-      - [Armv7-M](https://developer.arm.com/documentation/ddi0403/ee?lang=en)
-    - [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)
-    - [RISC-V](https://en.wikipedia.org/wiki/RISC-V)
-      - [Unprivileged Instruction Set](https://docs.riscv.org/reference/isa/v20240411/unpriv/unpriv-index.html) (online - 2024-04-11)
-        ([pdf](web.archive.org/web/20251221235346id_/https://docs.riscv.org/reference/isa/_attachments/riscv-unprivileged.pdf) - 2025-05-08)
-      - [Privileged Instruction Set](https://docs.riscv.org/reference/isa/v20240411/priv/priv-index.html) (online - 2024-04-11)
-        ([pdf](web.archive.org/web/20251225072705id_/https://docs.riscv.org/reference/isa/_attachments/riscv-privileged.pdf) - 2025-05-08)
-      - [Debug Spec](http://web.archive.org/web/20251119152653id_/https://docs.riscv.org/reference/debug-trace-ras/debug/_attachments/riscv-debug-specification.pdf) (pdf)
-      - [Interrupts](web.archive.org/web/20251115101014id_/https://docs.riscv.org/reference/hardware/aia/_attachments/riscv-interrupts.pdf) (pdf)
-      - [Optimization Guide](http://web.archive.org/web/20251208232822id_/https://riscv-optimization-guide.riseproject.dev/)
+  - [Multiboot](https://www.gnu.org/software/grub/manual/multiboot/multiboot.html) - MBR
+    ([pdf](https://www.gnu.org/software/grub/manual/multiboot/multiboot.pdf))
+  - [Multiboot2](http://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html) - UEFI
+    ([pdf](https://www.gnu.org/software/grub/manual/multiboot2/multiboot.pdf))
