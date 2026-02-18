@@ -95,6 +95,7 @@ File Systems
   - [Writing Boot Sector Code](https://susam.net/writing-boot-sector-code.html)
   - [Unios](http://web.archive.org/web/20190627225159id_/http://gok.customer.netspace.net.au/resources/)
 * DOS (real mode os)
+  - [An Inside Look at MS-DOS](http://web.archive.org/web/20000824034659id_/http://www.patersontech.com/Dos/Byte/InsideDos.htm) - Tim Paterson
   - [Useful DOS and BIOS Interrupts](https://faculty.uml.edu/yluo/Teaching/MicroprocessorII/resources/interrupts.pdf) (pdf)
   - [DR-DOS System and Programmers Guide](https://web.archive.org/web/20171007025631id_/http://www.drdos.net/documentation/sysprog/httoc.htm) - 1997, caldera
   - [List of DOS system files](https://en.wikipedia.org/wiki/List_of_DOS_system_files) - wikipedia
