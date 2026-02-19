@@ -153,3 +153,6 @@ File Systems
     ([pdf](https://www.gnu.org/software/grub/manual/multiboot/multiboot.pdf))
   - [Multiboot2](http://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html) - UEFI
     ([pdf](https://www.gnu.org/software/grub/manual/multiboot2/multiboot.pdf))
+* [VESA BIOS Extensions](https://en.wikipedia.org/wiki/VESA_BIOS_Extensions)
+  - [VBE 3.0](http://web.archive.org/web/20080302090304id_/http://www.vesa.org/public/VBE/vbe3.pdf) (pdf)
+  - [VBE/AF](https://web.archive.org/web/20081209121702id_/http://www.vesa.org/public/VBE/VBE-AF07.pdf) (pdf)
