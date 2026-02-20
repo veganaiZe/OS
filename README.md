@@ -142,7 +142,6 @@ File Systems
   - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
   - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
     - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - video services
-  - [VESA BIOS Extensions](https://en.wikipedia.org/wiki/VESA_BIOS_Extensions)
 
 
 📋 Specifications
