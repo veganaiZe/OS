@@ -110,19 +110,6 @@ File Systems
     - [MS-DOS](https://github.com/microsoft/ms-dos) - 1.25 (1982); 2.0 (1983); 4.0 (1988)
     - [GW-BASIC](https://github.com/microsoft/GW-BASIC) - 1983
   - [VGA-Copy](https://web.archive.org/web/20160625070714id_/http://moenk.de/plugin/dlfile_1) - read/format any floppy disk (image) size
-* Linux (monolithic kernel os)
-  - [Linux From Scratch](https://www.linuxfromscratch.org/index.html)
-  - [Linux Kernel 2.4 Internals](https://tldp.org/LDP/lki/index.html)
-    ([pdf](https://dl.booksee.org/genesis/251000/49bcf2e3713e31982b45410acab73634/_as/%255BAivazian_T.%255D_Linux_kernel_2.4_internals%28BookSee.org%29.pdf))
-  - Linux Kernel Module Programming Guide
-    - [v2.4](https://tldp.org/LDP/lkmpg/2.4/html/index.html) ([pdf](https://tldp.org/LDP/lkmpg/2.4/lkmpg.pdf))
-    - [v2.6](https://tldp.org/LDP/lkmpg/2.6/html/index.html) ([pdf](https://tldp.org/LDP/lkmpg/2.6/lkmpg.pdf))
-* [Minix 3](http://www.minix3.org/) (microkernel os) - wiki
-    - [3.1.0](https://download.minix3.org/iso/minix-3.1.0-book.iso.bz2) - version in OS Design & Implementation book; includes source & pdf listings
-    - 3.1.8 ([iso](https://download.minix3.org/iso/minix3_1_8_ide_r8165.iso.bz2))
-            ([src](https://github.com/Stichting-MINIX-Research-Foundation/minix/archive/refs/tags/v3.1.8.tar.gz))
-            - last version before netbsd crap added
-    - [3.4.0rc6](https://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2) - last version
 * Windows (hybrid kernel os)
   - [ReactOS](https://reactos.org/) - open source windows clone ([wiki](https://reactos.org/wiki/Welcome_to_the_ReactOS_Development_Wiki))
   - [Inside the Windows Vista Kernel: Part 1](http://web.archive.org/web/20160719164014/https://technet.microsoft.com/en-us/magazine/2007.02.vistakernel.aspx)
@@ -131,7 +118,24 @@ File Systems
   - [Inside Windows Server 2008 Kernel Changes](http://web.archive.org/web/20120729115628/http://technet.microsoft.com/en-us/magazine/2008.03.kernel.aspx)
   - [Windows Internals](http://web.archive.org/web/20150115091709id_/http://download.microsoft.com/download/1/4/0/14045A9E-C978-47D1-954B-92B9FD877995/97807356648739_SampleChapters.pdf) - 6th edition, sample chapters
   - [NT](https://www.youtube.com/@NT-dd8rw/videos) - youtube channel
-
+* Unix
+  * Linux (monolithic kernel os)
+    - [Linux From Scratch](https://www.linuxfromscratch.org/index.html)
+    - [Linux Kernel 2.4 Internals](https://tldp.org/LDP/lki/index.html)
+      ([pdf](https://dl.booksee.org/genesis/251000/49bcf2e3713e31982b45410acab73634/_as/%255BAivazian_T.%255D_Linux_kernel_2.4_internals%28BookSee.org%29.pdf))
+    - Linux Kernel Module Programming Guide
+      - [v2.4](https://tldp.org/LDP/lkmpg/2.4/html/index.html) ([pdf](https://tldp.org/LDP/lkmpg/2.4/lkmpg.pdf))
+      - [v2.6](https://tldp.org/LDP/lkmpg/2.6/html/index.html) ([pdf](https://tldp.org/LDP/lkmpg/2.6/lkmpg.pdf))
+  * [Minix 3](http://www.minix3.org/) (microkernel os) - wiki
+    - [3.1.0](https://download.minix3.org/iso/minix-3.1.0-book.iso.bz2) - version in OS Design & Implementation book; includes source & pdf listings
+    - 3.1.8 ([iso](https://download.minix3.org/iso/minix3_1_8_ide_r8165.iso.bz2))
+            ([src](https://github.com/Stichting-MINIX-Research-Foundation/minix/archive/refs/tags/v3.1.8.tar.gz))
+            - last version before netbsd crap added
+    - [3.4.0rc6](https://download.minix3.org/iso/snapshot/minix_R3.4.0rc6-d5e4fc0.iso.bz2) - last version
+  * [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs) (monolithic kernel os)
+    - [Plan 9 - 4th edition paper](http://doc.cat-v.org/plan_9/4th_edition/papers/9)
+    - [Plan 9 Foundation](http://p9f.org/)
+  * [xv6](https://en.wikipedia.org/wiki/Xv6) (monolithic kernel os)
 
 🔦 Resources
 ------------
