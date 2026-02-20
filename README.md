@@ -151,8 +151,10 @@ File Systems
 * [Multiboot](https://en.wikipedia.org/wiki/Multiboot_specification)
   - [Multiboot](https://www.gnu.org/software/grub/manual/multiboot/multiboot.html) - MBR
     ([pdf](https://www.gnu.org/software/grub/manual/multiboot/multiboot.pdf))
-  - [Multiboot2](http://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html) - UEFI
+  - [Multiboot2](https://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html) - UEFI
     ([pdf](https://www.gnu.org/software/grub/manual/multiboot2/multiboot.pdf))
 * [VESA BIOS Extensions](https://en.wikipedia.org/wiki/VESA_BIOS_Extensions)
-  - [VBE 3.0](http://web.archive.org/web/20080302090304id_/http://www.vesa.org/public/VBE/vbe3.pdf) (pdf)
+  - [VBE 3.0](https://web.archive.org/web/20080302090304id_/http://www.vesa.org/public/VBE/vbe3.pdf) (pdf)
   - [VBE/AF](https://web.archive.org/web/20081209121702id_/http://www.vesa.org/public/VBE/VBE-AF07.pdf) (pdf)
+* [VGA](https://en.wikipedia.org/wiki/Video_Graphics_Array)
+  - [vgadoc4b.zip](http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/docs/vgadoc4b.zip) - register level (s)vga programming info
