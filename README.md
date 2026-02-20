@@ -53,8 +53,10 @@ CPU Architectures
     - [M68000 Programmer’s Reference Manual](http://web.archive.org/web/20160224175155id_/https://www.nxp.com/files/archives/doc/ref_manual/M68000PRM.pdf) (pdf)
     - [ColdFire ISA](http://web.archive.org/web/20160705142541id_/https://www.nxp.com/files/dsp/doc/ref_manual/CFPRM.pdf) - reduced version of the M68000 instruction set (pdf)
   - [***x86***](https://en.wikipedia.org/wiki/X86)
-    - [Intel 80386 Reference Programmer's Manual](https://pdos.csail.mit.edu/6.828/2018/readings/i386/toc.htm) (online)
+    - [Intel 80386 Reference Programmer's Manual](https://pdos.csail.mit.edu/6.828/2018/readings/i386/toc.htm)
       ([pdf](https://css.csail.mit.edu/6.858/2014/readings/i386.pdf))
+    - [P6 Programmer’s Reference Manual](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-pro/vol2.pdf) (pdf)
+    - [P6 Operating System Writer’s Guide](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-pro/vol3.pdf) (pdf)
     - [The Art of Picking Intel Registers](https://www.swansontec.com/sregisters.html) - swansontec
 * RISC
   - [***ARM***](https://en.wikipedia.org/wiki/ARM_architecture_family)
