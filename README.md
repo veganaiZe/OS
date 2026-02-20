@@ -45,6 +45,16 @@ OS Development
   - [Errata](http://web.archive.org/web/20071201052103id_/http://www.world.std.com/~jmhart/top2ed.htm)
 
 
+Courses
+-------
+
+* ***CS 377 Operating Systems*** - umass, spring 2014, undegraduate level
+  - [Lectures](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k) - hands down best undergrad os lectures on youtube
+  - [Slides](https://lass.cs.umass.edu/~shenoy/courses/377/lectures/) - from different instructor / year
+* [***6.828 Operating System Engineering***](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/) - mit ocw, fall 2012, graduate level
+  - [Lectures](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) - youtube playlist
+
+
 CPU Architectures
 -----------------
 
@@ -146,7 +156,6 @@ File Systems
   - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
   - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
     - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - video services
-* [6.828 Operating System Engineering](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/) - mit ocw, fall 2012, graduate level
 
 
 📋 Specifications
