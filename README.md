@@ -146,6 +146,7 @@ File Systems
   - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
   - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
     - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - video services
+* [6.828 Operating System Engineering](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/) - mit ocw, fall 2012, graduate level
 
 
 📋 Specifications
