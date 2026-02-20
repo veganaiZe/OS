@@ -48,7 +48,7 @@ OS Development
 Courses
 -------
 
-* ***CS 377 Operating Systems*** - umass, spring 2014, undegraduate level
+* ***CS 377 Operating Systems*** - umass, spring 2014, undergraduate level
   - [Lectures](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k) - hands down best undergrad os lectures on youtube
   - [Slides](https://lass.cs.umass.edu/~shenoy/courses/377/lectures/) - from different instructor / year
 * [***6.828 Operating System Engineering***](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/) - mit ocw, fall 2012, graduate level
