@@ -104,7 +104,6 @@ File Systems
 * Bootsector (extremely minimal os examples)
   - [Bootsector and Assembly](https://archive.ph/MxbeL) - Pierre Ancelot
   - [Daniels NASM bootstraps tutorial](http://web.archive.org/web/20120130041352id_/http://www.nondot.org/sabre/os/files/Booting/nasmBoot.txt)
-  - [Using BIOS Interrupts](https://kindatechnical.com/assembly/lesson-21-using-bios-interrupts.html)
   - [Writing Boot Sector Code](https://susam.net/writing-boot-sector-code.html)
   - [Unios](http://web.archive.org/web/20190627225159id_/http://gok.customer.netspace.net.au/resources/)
 * DOS (real mode os)
