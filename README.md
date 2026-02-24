@@ -45,8 +45,8 @@ OS Development
   - [Errata](http://web.archive.org/web/20071201052103id_/http://www.world.std.com/~jmhart/top2ed.htm)
 
 
-Courses
--------
+🎓 Courses
+----------
 
 * ***CS 377 Operating Systems*** - umass, spring 2014, undergraduate level
   - [Lectures](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k) - sean barker; youtube playlist; hands down best undergrad os lectures
@@ -56,8 +56,8 @@ Courses
   - [Lectures](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) - youtube playlist
 
 
-CPU Architectures
------------------
+📐 CPU Architectures
+--------------------
 
 * CISC
   - [***m68k***](https://en.wikipedia.org/wiki/Motorola_68000_series)
@@ -69,6 +69,10 @@ CPU Architectures
     - [P6 Programmer’s Reference Manual](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-pro/vol2.pdf) (pdf)
     - [P6 Operating System Writer’s Guide](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/ic/cpu/x86/pentium-pro/vol3.pdf) (pdf)
     - [The Art of Picking Intel Registers](https://www.swansontec.com/sregisters.html) - swansontec
+    - BIOS
+      - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
+      - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
+        - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - video services
 * RISC
   - [***ARM***](https://en.wikipedia.org/wiki/ARM_architecture_family)
     - [armref](https://web.archive.org/web/20220607075242id_/https://re-eject.gbadev.org/files/armref.pdf) (pdf)
@@ -85,8 +89,8 @@ CPU Architectures
     - [Optimization Guide](http://web.archive.org/web/20251208232822id_/https://riscv-optimization-guide.riseproject.dev/)
 
 
-File Systems
-------------
+📁 File Systems
+---------------
 
 * FAT
   - [How FAT Works](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776720(v=ws.10)) - microsoft learn
@@ -152,10 +156,10 @@ File Systems
 
 * [OSDev](https://wiki.osdev.org/Expanded_Main_Page) - wiki ([offline archive](https://files.osdev.org/osdev_wiki.zip))
 * [OSRC](http://web.archive.org/web/20110816070757id_/http://www.nondot.org/sabre/os/articles) - operating system resource center
-* BIOS
-  - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
-  - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
-    - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - video services
+* Wikipedia
+  - [Anatomy of a Shell (CLI)](https://en.wikipedia.org/wiki/Command-line_interface#Anatomy_of_a_shell_CLI)
+  - [Hobbyist Operating System](https://en.wikipedia.org/wiki/Hobbyist_operating_system)
+  - [Text-Based User Interface (TUI)](https://en.wikipedia.org/wiki/Text-based_user_interface)
 
 
 📋 Specifications
@@ -173,3 +177,11 @@ File Systems
   - [VBE/AF](https://web.archive.org/web/20081209121702id_/http://www.vesa.org/public/VBE/VBE-AF07.pdf) (pdf)
 * [VGA](https://en.wikipedia.org/wiki/Video_Graphics_Array)
   - [vgadoc4b.zip](http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/docs/vgadoc4b.zip) - register level (s)vga programming info
+
+
+🔧 Tools
+--------
+
+* [86Box](https://86box.net/) - 8086-pentium ibm pc emulator
+* [nasm](https://nasm.us/) - x86 assembler
+* [QEMU docs](https://www.qemu.org/docs/master/index.html) - machine emulator & virtualizer
