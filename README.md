@@ -123,8 +123,8 @@ OS Development
     - [EDR-DOS](https://github.com/SvarDOS/edrdos) - Enhanced DR-DOS kernel and command interpreter
     - [FreeDOS](https://github.com/FDOS/kernel) - kernel
     - [MS-DOS](https://github.com/microsoft/ms-dos) - 1.25 (1982); 2.0 (1983); 4.0 (1988)
-    - [GW-BASIC](https://github.com/microsoft/GW-BASIC) - 1983
-  - [VGA-Copy](https://web.archive.org/web/20160625070714id_/http://moenk.de/plugin/dlfile_1) - read/format any floppy disk (image) size
+      - [GW-BASIC](https://github.com/microsoft/GW-BASIC) - 1983
+    - [SvarDOS](http://svardos.org/) - based on EDR-DOS
 * Windows (hybrid kernel os)
   - [ReactOS](https://reactos.org/) - open source windows clone ([wiki](https://reactos.org/wiki/Welcome_to_the_ReactOS_Development_Wiki))
   - [Inside the Windows Vista Kernel: Part 1](http://web.archive.org/web/20160719164014/https://technet.microsoft.com/en-us/magazine/2007.02.vistakernel.aspx)
@@ -186,3 +186,4 @@ OS Development
 * [86Box](https://86box.net/) - 8086-pentium ibm pc emulator
 * [nasm](https://nasm.us/) - x86 assembler
 * [QEMU docs](https://www.qemu.org/docs/master/index.html) - machine emulator & virtualizer
+* [VGA-Copy](https://web.archive.org/web/20160625070714id_/http://moenk.de/plugin/dlfile_1) - read/format any floppy disk/image size (dos)
