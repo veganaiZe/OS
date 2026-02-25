@@ -72,6 +72,7 @@ OS Development
     - [The Art of Picking Intel Registers](https://www.swansontec.com/sregisters.html) - swansontec
     - BIOS
       - [BIOS](https://wiki.osdev.org/BIOS) - osdev.org
+      - [Memory Map (x86)](https://wiki.osdev.org/Memory_Map_(x86)) - osdev.org
       - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
         - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - video services
 * RISC
