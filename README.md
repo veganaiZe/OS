@@ -54,7 +54,7 @@ OS Development
   - [Course Homepage](https://tildesites.bowdoin.edu/~sbarker/teaching/courses/os/14spring/) - sean barker
   - [Slides](https://lass.cs.umass.edu/~shenoy/courses/377/lectures/) - from different instructor / year
 * [***6.828 Operating System Engineering***](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/) - mit ocw, fall 2012, graduate level
-  - [Lectures](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) - youtube playlist
+  - [Lectures](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) - youtube playlist, fall 2014
 
 
 📐 CPU Architectures
