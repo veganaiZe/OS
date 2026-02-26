@@ -75,6 +75,7 @@ OS Development
       - [Memory Map (x86)](https://wiki.osdev.org/Memory_Map_(x86)) - osdev.org
       - [BIOS Interrupts and Functions](https://web.archive.org/web/20210810215759id_/https://ostad.nit.ac.ir/payaidea/ospic/file1615.pdf) (pdf)
         - [INT 10h](https://en.wikipedia.org/wiki/INT_10H) - video services
+        - [INT 16H](https://en.wikipedia.org/wiki/INT_16H) - keyboard services
 * RISC
   - [***ARM***](https://en.wikipedia.org/wiki/ARM_architecture_family)
     - [armref](https://web.archive.org/web/20220607075242id_/https://re-eject.gbadev.org/files/armref.pdf) (pdf)
@@ -119,6 +120,8 @@ OS Development
   - [List of DOS system files](https://en.wikipedia.org/wiki/List_of_DOS_system_files) - wikipedia
   - [List of DOS commands](https://en.wikipedia.org/wiki/List_of_DOS_commands) - wikipedia
   - [IBM CGA manual](http://minuszerodegrees.net/oa/OA%20-%20IBM%20Color%20Graphics%20Monitor%20Adapter%20(CGA).pdf) (pdf)
+  - [HelpPC](https://stanislavs.org/helppc/)
+    - [ASCII Table](https://stanislavs.org/helppc/ascii.gif)
   - Source Code
     - [Caldera OpenDOS](https://web.archive.org/web/20060109092302if_/http://www.drdosprojects.de:80/cgi-bin/download.cgi/dossrc.zip) - M.R.S. 7.01 (aka. DR-DOS / Novell DOS)
     - [EDR-DOS](https://github.com/SvarDOS/edrdos) - Enhanced DR-DOS kernel and command interpreter
