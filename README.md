@@ -53,6 +53,10 @@ OS Development
   - [Lectures](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k) - sean barker; youtube playlist; hands down best undergrad os lectures
   - [Course Homepage](https://tildesites.bowdoin.edu/~sbarker/teaching/courses/os/14spring/) - sean barker
   - [Slides](https://lass.cs.umass.edu/~shenoy/courses/377/lectures/) - from different instructor / year
+* [***6.1810 Operating System Engineering***](https://pdos.csail.mit.edu/6.828/2025/overview.html) - mit, fall 2025, undergraduate level
+  - [MIT 6.004 L19: Operating Systems](https://youtu.be/Dj2hN_pFA8w?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
+  - [MIT 6.004 L20: Virtual Memory](https://youtu.be/W7Scg6LfZhY?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
+  - [MIT 6.004 L21: Operating Systems: I/O and System Calls](https://youtu.be/ReRj0Ww0TU4?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
 * [***6.828 Operating System Engineering***](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/) - mit ocw, fall 2012, graduate level
   - [Lectures](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) - youtube playlist, fall 2014
 
