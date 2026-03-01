@@ -59,6 +59,7 @@ OS Development
   - [MIT 6.004 L21: Operating Systems: I/O and System Calls](https://youtu.be/ReRj0Ww0TU4?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
 * [***6.828 Operating System Engineering***](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/) - mit ocw, fall 2012, graduate level
   - [Lectures](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) - youtube playlist, fall 2014
+  - [xv6 (x86)](https://pdos.csail.mit.edu/6.828/2018/overview.html) - fall 2018, last x86-based xv6 course
 
 
 📐 CPU Architectures
