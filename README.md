@@ -60,6 +60,9 @@ OS Development
 * [***6.828 Operating System Engineering***](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/) - mit ocw, fall 2012, graduate level
   - [Lectures](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) - youtube playlist, fall 2014
   - [xv6 (x86)](https://pdos.csail.mit.edu/6.828/2018/overview.html) - fall 2018, last x86-based xv6 course
+    - [Schedule](http://web.archive.org/web/20190718214555id_/https://pdos.csail.mit.edu/6.828/2018/schedule.html) - archived copy
+    - [2018/lec/](https://pdos.csail.mit.edu/6.828/2018/lec/) - index
+    - [2018/homework/](https://pdos.csail.mit.edu/6.828/2018/lec/) - index
 
 
 📐 CPU Architectures
@@ -182,6 +185,7 @@ OS Development
     ([pdf](https://www.gnu.org/software/grub/manual/multiboot/multiboot.pdf))
   - [Multiboot2](https://web.archive.org/web/20230601090218id_/https://www.gnu.org/software/grub/manual/multiboot2/multiboot.html) - UEFI
     ([pdf](https://www.gnu.org/software/grub/manual/multiboot2/multiboot.pdf))
+* ["El Torito" Bootable CD-ROM Spec](https://pdos.csail.mit.edu/6.828/2018/readings/boot-cdrom.pdf) - 1.0
 * [VESA BIOS Extensions](https://en.wikipedia.org/wiki/VESA_BIOS_Extensions)
   - [VBE 3.0](https://web.archive.org/web/20080302090304id_/http://www.vesa.org/public/VBE/vbe3.pdf) (pdf)
   - [VBE/AF](https://web.archive.org/web/20081209121702id_/http://www.vesa.org/public/VBE/VBE-AF07.pdf) (pdf)
