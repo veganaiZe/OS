@@ -63,6 +63,7 @@ OS Development
     - [Schedule](http://web.archive.org/web/20190718214555id_/https://pdos.csail.mit.edu/6.828/2018/schedule.html) - archived copy
     - [2018/lec/](https://pdos.csail.mit.edu/6.828/2018/lec/) - index
     - [2018/homework/](https://pdos.csail.mit.edu/6.828/2018/lec/) - index
+    - [2018/readings/](https://pdos.csail.mit.edu/6.828/2018/readings/) - index
 
 
 📐 CPU Architectures
