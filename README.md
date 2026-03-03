@@ -53,7 +53,7 @@ OS Development
   - [Lectures](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k) - sean barker; youtube playlist; hands down best undergrad os lectures
   - [Course Homepage](https://tildesites.bowdoin.edu/~sbarker/teaching/courses/os/14spring/) - sean barker
   - [Slides](https://lass.cs.umass.edu/~shenoy/courses/377/lectures/) - from different instructor / year
-* [***6.1810 Operating System Engineering***](https://pdos.csail.mit.edu/6.828/2025/overview.html) - mit, fall 2025, undergraduate level
+* [***6.1810 Operating System Engineering***](https://pdos.csail.mit.edu/6.1810/2025/overview.html) - mit, fall 2025, undergraduate level
   - [MIT 6.004 L19: Operating Systems](https://youtu.be/Dj2hN_pFA8w?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
   - [MIT 6.004 L20: Virtual Memory](https://youtu.be/W7Scg6LfZhY?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
   - [MIT 6.004 L21: Operating Systems: I/O and System Calls](https://youtu.be/ReRj0Ww0TU4?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)
@@ -99,6 +99,7 @@ OS Development
     - [Debug Spec](http://web.archive.org/web/20251119152653id_/https://docs.riscv.org/reference/debug-trace-ras/debug/_attachments/riscv-debug-specification.pdf) (pdf)
     - [Interrupts](web.archive.org/web/20251115101014id_/https://docs.riscv.org/reference/hardware/aia/_attachments/riscv-interrupts.pdf) (pdf)
     - [Optimization Guide](http://web.archive.org/web/20251208232822id_/https://riscv-optimization-guide.riseproject.dev/)
+    - [The RISC-V Reader: An Open Architecture Atlas](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/rvbook.pdf) (pdf - 2017-10-04)
 
 
 📁 File Systems
