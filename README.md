@@ -165,6 +165,9 @@ OS Development
     - [Plan 9 - 4th edition paper](http://doc.cat-v.org/plan_9/4th_edition/papers/9)
     - [Plan 9 Foundation](http://p9f.org/)
   * [xv6](https://en.wikipedia.org/wiki/Xv6) (monolithic kernel os)
+    - [v6 manpages](http://doc.cat-v.org/unix/v6/operating-systems-lecture-notes/v6/doc/0/index.html) - unix v6 manpages (html)
+    - [v6 unix docs](http://doc.cat-v.org/unix/v6/operating-systems-lecture-notes/v6/doc/index.html) - unix v6 manpages and other docs (postscript)
+
 
 🔦 Resources
 ------------
