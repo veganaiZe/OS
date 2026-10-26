@@ -196,7 +196,9 @@ OS Development
   - [VBE/AF](https://web.archive.org/web/20081209121702id_/http://www.vesa.org/public/VBE/VBE-AF07.pdf) (pdf)
 * [VGA](https://en.wikipedia.org/wiki/Video_Graphics_Array)
   - [vgadoc4b.zip](http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/docs/vgadoc4b.zip) - register level (s)vga programming info
-* [ACPI](https://www.intel.com/content/www/us/en/developer/topic-technology/open/acpica/overview.html) - intel
+* [ACPI](https://en.wikipedia.org/wiki/ACPI)
+  - [Specs](https://uefi.org/specifications) - ACPI & UEFI
+  - [ACPICA](https://www.intel.com/content/www/us/en/developer/topic-technology/open/acpica/overview.html) - intel reference implementation
 
 
 🔧 Tools
