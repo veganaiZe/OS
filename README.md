@@ -183,8 +183,8 @@ OS Development
 📋 Specifications
 -----------------
 
-* [POSIX.1-2024](https://pubs.opengroup.org/onlinepubs/9799919799/)
-  ([zipped](https://pubs.opengroup.org/onlinepubs/9799919799/download/susv5.zip))
+* [POSIX.1-2017](https://pubs.opengroup.org/onlinepubs/9699919799.2018edition/)
+  ([zipped](https://pubs.opengroup.org/onlinepubs/9699919799.2018edition/download/susv4-2018.zip))
 * [Multiboot](https://en.wikipedia.org/wiki/Multiboot_specification)
   - [Multiboot](https://www.gnu.org/software/grub/manual/multiboot/multiboot.html) - MBR
     ([pdf](https://www.gnu.org/software/grub/manual/multiboot/multiboot.pdf))
@@ -196,6 +196,7 @@ OS Development
   - [VBE/AF](https://web.archive.org/web/20081209121702id_/http://www.vesa.org/public/VBE/VBE-AF07.pdf) (pdf)
 * [VGA](https://en.wikipedia.org/wiki/Video_Graphics_Array)
   - [vgadoc4b.zip](http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/docs/vgadoc4b.zip) - register level (s)vga programming info
+* [ACPI](https://www.intel.com/content/www/us/en/developer/topic-technology/open/acpica/overview.html) - intel
 
 
 🔧 Tools
